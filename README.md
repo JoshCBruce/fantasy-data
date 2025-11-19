@@ -286,23 +286,6 @@ The scraper dynamically determines race order from the website and typically cov
 - **6 Sprint Weekends**: Races with both sprint and main sessions
 - **All Sessions**: Qualifying, race, sprint qualifying, sprint race
 
-### 2025 Season Races Covered
-1. Australia
-2. China (Sprint)
-3. Japan
-4. Bahrain
-5. Saudi Arabia
-6. United States (Sprint)
-7. Italy
-8. Monaco
-9. Spain
-10. Canada
-11. Austria (Sprint)
-12. United Kingdom
-13. Belgium (Sprint)
-14. Hungary
-15. Netherlands
-
 ## 📊 Analysis Use Cases
 
 The extracted data enables various analyses:
